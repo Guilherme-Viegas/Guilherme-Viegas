@@ -17,14 +17,38 @@
   <img align="left" alt="LinkedIn" width="21px" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" />
 </a>
 <a href="mailto:ggmviegas@gmail.com">
-  <img align="left" alt="email" width="21px" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" />
+  <img align="left" alt="email" width="21px" src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" />
 </a>
 <a href="https://www.instagram.com/guilherme.viegas99/?hl=en">
-  <img align="left" alt="instagram" width="21px" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" />
+  <img align="left" alt="instagram" width="21px" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" />
 </a>
 <br/><br/>
 
 ---
+# What I Work With!
+
+### Languages and Tools:
+
+<a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
+<a href="https://www.python.org" target="_blank"> <img align="left" alt="Python" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank"> <img align="left" alt="C" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img align="left" alt="git" width="26px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/> </a>
+<img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
+<br />
+<br />
+### Softwares:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img align="left" alt="XD" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/adobexd.png?raw=true"/> </a> 
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true"/> </a> 
+<a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/> </a>
+<a href="https://www.blender.org" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/blender.png?raw=true"/> </a>
+
+
+<br />
+<br />
 
 # What I work with
 
@@ -35,36 +59,24 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Tiago-Almeida&theme=github_dark&layout=compact&hide=jupyter%20notebook" />
 </p>
 
-### Data Science Libraries & Frameworks
-
-<p>
-  <img align="left" src="https://img.shields.io/badge/TensorFlow-1c1c1c?&logo=TensorFlow" />
-  <img align="left" src="https://img.shields.io/badge/PyTorch-1c1c1c?&logo=PyTorch" />
-  <img align="left" src="https://img.shields.io/badge/git-1c1c1c?&logo=Git" />
-  <img align="left" src="https://img.shields.io/badge/JSON-1c1c1c?&logo=JSON" />
-  <img align="left" src="https://img.shields.io/badge/Pandas-1c1c1c?&logo=Pandas" />
-  <img align="left" src="https://img.shields.io/badge/Numpy-1c1c1c?&logo=Numpy" />
-  <img align="left" src="https://img.shields.io/badge/OpenCV-1c1c1c?&logo=OpenCV" />
-  <img align="left" src="https://img.shields.io/badge/LaTex-1c1c1c?&logo=LaTex" />
-  <img align="left" src="https://img.shields.io/badge/Matplotlib-1c1c1c?&logo=Matplotlib" />
-  <img align="left" src="https://img.shields.io/badge/Seaborn-1c1c1c?&logo=Seaborn" />
-</p>
-<br/><br/>
-
 ### Devices
 
 <p>
-  <img align="left" src="https://img.shields.io/badge/-MacBook%20Pro-black?&style=for-the-badge&logo=Apple&logoColor=white" />
   <img align="left" src="https://img.shields.io/badge/Raspberry Pi-A22846?&style=for-the-badge&logo=Raspberry Pi&logoColor=white" />
   <img align="left" src="https://img.shields.io/badge/Arduino-00979D?&style=for-the-badge&logo=Arduino&logoColor=white" />
 </p>
 <br/><br/>
 
 ---
+# Vibing through
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/gabad1nh0?si=2b5b2d4699ce49a9)
+<br/>
+
 # Statistics
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Joao-Tiago-Almeida&theme=shades-of-purple&border_radius=4.6&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bacon-delight&count_private=true&show_icons=true&theme=shades-of-purple)
+[![Github_Stats](https://github-readme-stats.vercel.app/api?username=Aakarsh-B&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 # Curriculum
