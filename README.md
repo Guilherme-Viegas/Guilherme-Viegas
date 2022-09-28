@@ -4,13 +4,12 @@
 <h3>I'm a Master Engineer in Electrical and Computer Engineering from Instituto Superior Técnico <img src="https://upload.wikimedia.org/wikipedia/pt/e/ed/IST_Logo.png" width="15px"> with a major in <span>Autonomous Systems and Robotics.</span></h3>
 
 
-- 🔭 I’m currently working on a paper submission to the [ACM/IEEE International Conference on Human-Robot Interaction](https://humanrobotinteraction.org/2023/) in March 13-16, 2023 Stockholm, SE
-- 🌱 I’m currently learning Natural Language Processing (NLP)
-- 👯 I’m looking to collaborate on Explainable Artificial Intelligence (XAI)
-- 🤔 I’m looking for help with understanding how to multiply money with passive income
-- 💬 Ask me about Engineer Degree/Study Abroad/Social Robotics
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: "Hey Siri, tell me a fun fact about me, please."
+- :book: Focused on the current research in the motion planning of Autonomous Systems and Robotis
+- :eyes: ... but curious about almost everything in this and other worlds!
+- :heart: Passionate about the crossover between Robotics and Space Exploration
+- :airplane: I’m currently looking for jobs related to Robotics and/or Machine Learning/AI... travelling abroad is an option!
+- :guitar:, :surfer:, :muscle: My hobbies include "playing" the guitar, surfing and crossfit
+- 🥋 A black belt in Judo... slowly turning into white as the years go by without practicing :disappointed:
 
 ### Connect with me :smiley:
 <a href="https://www.linkedin.com/in/guilherme-viegas/">
@@ -65,4 +64,4 @@
 
 ---
 # Curriculum
-![Resume_Guilherme_Viegas.pdf](https://github.com/Guilherme-Viegas/Guilherme-Viegas/files/resume.pdf)
+![Resume_Guilherme_Viegas.pdf](https://github.com/Guilherme-Viegas/Guilherme-Viegas/curriculum.pdf)
