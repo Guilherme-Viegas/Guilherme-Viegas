@@ -57,7 +57,7 @@
 # Vibing through
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=gabad1nh0?si=04b43017125b4c7d&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=gabad1nh0?si=04b43017125b4c7d&cover_image=true&theme=default&bar_color=5e30eb&bar_color_cover=true"/>
+  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=04b43017125b4c7d&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=04b43017125b4c7d&cover_image=true&theme=default&bar_color=5e30eb&bar_color_cover=true"/>
  </p>
 
 # Statistics
