@@ -38,25 +38,12 @@
 <img align="left" alt="GitHub" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg" />
 <br />
 <br />
-### Softwares:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img align="left" alt="XD" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/adobexd.png?raw=true"/> </a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/> </a>
-<a href="https://www.blender.org" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/blender.png?raw=true"/> </a>
-
-
-<br />
-<br />
-
-# What I work with
 
 <p>These are some of the languages, tools and frameworks that I use on a regular basis.</p>
 
 <h4>Languages</h4>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Tiago-Almeida&theme=github_dark&layout=compact&hide=jupyter%20notebook" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Viegas&theme=github_dark&layout=compact&hide=jupyter%20notebook" />
 </p>
 
 ### Devices
@@ -74,10 +61,8 @@
 
 # Statistics
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Joao-Tiago-Almeida&theme=shades-of-purple&border_radius=4.6&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bacon-delight&count_private=true&show_icons=true&theme=shades-of-purple)
-[![Github_Stats](https://github-readme-stats.vercel.app/api?username=Aakarsh-B&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+[![Github_Stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Viegas&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 # Curriculum
-![Resume_Joao_Almeida.pdf](https://github.com/Joao-Tiago-Almeida/Joao-Tiago-Almeida/files/9646948/Resume_Joao_Almeida.pdf)
+![Resume_Guilherme_Viegas.pdf](https://github.com/Guilherme-Viegas/Guilherme-Viegas/files/resume.pdf)
