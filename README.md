@@ -55,7 +55,7 @@
 
 ---
 # Vibing through
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/gabad1nh0?si=2b5b2d4699ce49a9)
+[![Spotify](https://open.spotify.com/user/gabad1nh0?si=2b5b2d4699ce49a9)]
 <br/>
 
 # Statistics
