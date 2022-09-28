@@ -64,4 +64,4 @@
 
 ---
 # Curriculum
-![Resume_Guilherme_Viegas.pdf](https://github.com/Guilherme-Viegas/Guilherme-Viegas/curriculum.pdf)
+![Resume_Guilherme_Viegas.pdf](https://github.com/Guilherme-Viegas/Guilherme-Viegas/blob/main/curriculum.pdf)
