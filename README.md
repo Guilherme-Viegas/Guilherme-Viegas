@@ -55,10 +55,8 @@
 
 ---
 # Vibing through
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view.svg?si=04b43017125b4c7d&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?si=04b43017125b4c7d&cover_image=true&theme=default&bar_color=5e30eb&bar_color_cover=true"/>
- </p>
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/gabad1nh0?si=2b5b2d4699ce49a9)
+<br/>
 
 # Statistics
 
