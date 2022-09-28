@@ -1,7 +1,7 @@
-# Hi, I'm João! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi, I'm Guilherme! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-<h3>I'm a Dual Master Engineer in Computer Science from <img src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/KTH_Royal_Institute_of_Technology_logo.svg/1200px-KTH_Royal_Institute_of_Technology_logo.svg.png" width="20px"> and Electrical and Computer from <img src="https://upload.wikimedia.org/wikipedia/pt/e/ed/IST_Logo.png" width="15px"> with a major in <span>Robotics.</span></h3>
+<h3>I'm a Master Engineer in Electrical and Computer Engineering from Instituto Superior Técnico <img src="https://upload.wikimedia.org/wikipedia/pt/e/ed/IST_Logo.png" width="15px"> with a major in <span>Autonomous Systems and Robotics.</span></h3>
 
 
 - 🔭 I’m currently working on a paper submission to the [ACM/IEEE International Conference on Human-Robot Interaction](https://humanrobotinteraction.org/2023/) in March 13-16, 2023 Stockholm, SE
@@ -12,10 +12,16 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: "Hey Siri, tell me a fun fact about me, please."
 
-## Connect with me
-
-<a href="https://www.linkedin.com/in/Joao-Tiago-Almeida/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
-<a href="mailto:joaotiago99@gmail.com"><img align="left" src="https://img.shields.io/badge/Email-EA4335?&style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+### Connect with me :smiley:
+<a href="https://www.linkedin.com/in/guilherme-viegas/">
+  <img align="left" alt="LinkedIn" width="21px" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" />
+</a>
+<a href="mailto:ggmviegas@gmail.com">
+  <img align="left" alt="email" width="21px" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" />
+</a>
+<a href="https://www.instagram.com/guilherme.viegas99/?hl=en">
+  <img align="left" alt="instagram" width="21px" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" />
+</a>
 <br/><br/>
 
 ---
