@@ -4,7 +4,7 @@
 <h3>I'm a Master Engineer in Electrical and Computer Engineering from Instituto Superior Técnico <img src="https://upload.wikimedia.org/wikipedia/pt/e/ed/IST_Logo.png" width="15px"> with a major in <span>Autonomous Systems and Robotics.</span></h3>
 
 
-- :book: Focused on the current research in the motion planning of Autonomous Systems and Robotis
+- :book: Focused on the current research in the motion planning of Autonomous Systems and Robotics
 - :eyes: ... but curious about almost everything in this and other worlds!
 - :heart: Passionate about the crossover between Robotics and Space Exploration
 - :airplane: I’m currently looking for jobs related to Robotics and/or Machine Learning/AI... travelling abroad is an option!
